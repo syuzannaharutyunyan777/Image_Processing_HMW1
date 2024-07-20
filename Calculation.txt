@@ -1,0 +1,13 @@
+Length of my first name - SYUZANNA - 8
+Length of my last name - HARUTYUNYAN - 11
+Difference between the first letter of your last name and the capital 'A'
+ASCII value of 'H' - ASCII value of 'A' = 72 - 65 = 7
+n = (length of your first name) + (length of your last name) + (difference between the first letter of your last name and the capital letter ‘A’) = 8 + 11 + 7 = 26
+
+n = 26
+
+id = round( -0.00165n^3 + 0.12384n^2 - 2.33779n + 14.1165) = -0.00165 * 26^3 + 0.12384 * 26^2 - 2.33779 * 26 + 14.1165) = 8.153686, which is rounded to 8
+
+id = 8
+
+So the .crs and .stu files will be rye-s-93.crs and rye-s-93.stu
